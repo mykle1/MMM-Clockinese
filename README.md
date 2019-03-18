@@ -1,6 +1,6 @@
 ## MMM-Clockinese
 
-Analog clock with Chinese numbers
+Analog clock with Chinese numbers. Now works in all time zones. Duh!
 
 ## Examples
 
